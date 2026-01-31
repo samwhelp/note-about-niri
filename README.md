@@ -12,7 +12,17 @@
 
 ## 主題
 
+* [微調腳本](#微調腳本)
 * [相關筆記](#相關筆記)
+
+
+
+
+## 微調腳本
+
+| 微調腳本 |
+| -------- |
+| [Niri Config](https://github.com/samwhelp/niri-adjustment/tree/main/prototype/main/niri-config/part/Main) |
 
 
 
@@ -21,7 +31,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
+| [Wayland 探索筆記](https://samwhelp.github.io/note-about-wayland/) | [GitHub](https://github.com/samwhelp/note-about-wayland) |
 | [Hyprland 探索筆記](https://samwhelp.github.io/note-about-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-hyprland) |
 
 

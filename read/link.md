@@ -10,7 +10,10 @@ has_children: true
 
 ## Niri
 
-* GitHub / [niri](hhttps://github.com/YaLTeR/niri)
+| Niri |
+| ---- |
+| GitHub / [niri](https://github.com/YaLTeR/niri) |
+| [/usr/share/doc/niri/default-config.kdl](https://github.com/YaLTeR/niri/blob/main/resources/default-config.kdl) |
 
 
 
